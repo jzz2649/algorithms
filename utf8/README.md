@@ -176,4 +176,4 @@ console.log(toChars(parse(utf8ify(toPoints('这是一个例子')))))
 
 ## BOM (byte order mark)
 
-这个用来表示"字节序"，关于字节序可查看[`utf16`](/algorithms/tree/main/utf16#readme)章节，window系统为了区别utf-8格式，给utf-8编码头添加了EF,BB,BF，但由于utf8不存在"字节序"，所以在其他系统中utf-8是没有EF,BB,BF的，在一些系统中解析带有BOM的utf-8会出现错误，所以建议不要使用BOM
+这个用来表示"字节序"，关于字节序可查看[`utf16`](https://github.com/jzz2649/algorithms/tree/main/utf16#readme)章节，window系统为了区别utf-8格式，给utf-8编码头添加了EF,BB,BF，但由于utf8不存在"字节序"，所以在其他系统中utf-8是没有EF,BB,BF的，在一些系统中解析带有BOM的utf-8会出现错误，所以建议不要使用BOM
