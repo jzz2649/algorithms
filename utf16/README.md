@@ -4,7 +4,7 @@
 
 > "这是一个😊".length !== 5
 
-js中的字符串使用的DOMString类型，也就是utf16，unicode一种实现方式，关于unicode可查看[`utf8`](./utf8#readme)章节
+js中的字符串使用的DOMString类型，也就是utf16，unicode一种实现方式，关于unicode可查看[`utf8`](/algorithms/tree/main/utf8#readme)章节
 
 ## utf16格式
 
