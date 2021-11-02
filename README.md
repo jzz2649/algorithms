@@ -5,7 +5,7 @@
 
 - [`位计算`](./bitwise#readme)
 - [`utf8`](./utf8#readme)
-- [`utf16`](./utf18#readme)
+- [`utf16`](./utf16#readme)
 - [`rsa`](./rsa#readme)
 - [`ieee754`](./ieee754#readme)
 
